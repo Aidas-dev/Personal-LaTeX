@@ -204,14 +204,15 @@ Participants select from five institutional options every 5 rounds:
 
 \begin{enumerate}
 \item \textbf{No Institution}: Standard public goods game (baseline)
-\item \textbf{Individual Punishment}: Players can punish free-riders at personal cost (Fehr and Gächter, 2000)
+\item \textbf{Individual Punishment}: Players can punish free-riders at personal cost \citep{fehr2000}
 \item \textbf{Collective Tax}: Automatic 20\% tax on uncontributed endowment
-\item \textbf{Individual Reward}: Players can reward cooperators at personal cost (Sefton et al., 2007)
-\item \textbf{Collective Bonus}: Automatic rewards for top contributors (Tao et al., 2016)
+\item \textbf{Individual Reward}: Players can reward cooperators at personal cost \citep{sefton2007}
+\item \textbf{Collective Bonus}: Automatic rewards for top contributors \citep{tao2016}
 \end{enumerate}
 
 \subsection{Mathematical Representation of Institutions}
 
+\textbf{Important design feature:} All institutions maintain identical total endowment (10 points per player per round). Punishment and reward points are deducted from participants' own earnings; no institution provides additional spending capacity that would create endowment disparities.
 \begin{itemize}
 \item \textbf{Individual Punishment}: 
 \begin{equation}
@@ -235,7 +236,7 @@ where $r_{ij}$ is reward points assigned by $i$ to $j$.
 \begin{equation}
 \pi_i = 0.8e - c_i + m \sum_{j=1}^{N} c_j + B_i
 \end{equation}
-where $B_i$ is bonus from pool distributed to top contributors.
+where $B_i$ is bonus from pool distributed to top 2 contributors.\footnote{If all contributions are equal, the bonus gets divided equally between all participants.}
 \end{itemize}
 
 
@@ -320,8 +321,8 @@ P(\text{Retention}) = f(\text{Past Performance}, \text{Institution Type}, \text{
 
 \subsection{Future Extensions}
 \begin{itemize}
-\item Varying group sizes
-\item Introducing institutional cost differentials
+\item Different group sizes
+\item Additional treatments with different starting points
 \end{itemize}
 
 \section{Conclusion}
