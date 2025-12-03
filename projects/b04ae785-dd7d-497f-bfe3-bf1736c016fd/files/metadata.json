@@ -4,7 +4,7 @@
     "name": "pgfcoregraphicstate.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcoregraphicstate.code.tex",
     "type": "file",
-    "lastModified": 1764778446778,
+    "lastModified": 1764780031764,
     "size": 6038,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -24,7 +24,7 @@
     "name": "pgfmathparser.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmathparser.code.tex",
     "type": "file",
-    "lastModified": 1764778446774,
+    "lastModified": 1764780031758,
     "size": 36526,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -34,7 +34,7 @@
     "name": "pgfmathfunctions.comparison.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmathfunctions.comparison.code.tex",
     "type": "file",
-    "lastModified": 1764778446774,
+    "lastModified": 1764780031759,
     "size": 3865,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -50,13 +50,6 @@
     "isBinary": true
   },
   {
-    "id": "0F6ApUybHezm5vm3TmkhK",
-    "name": "__output",
-    "path": "/.texlyre_src/__output",
-    "type": "directory",
-    "lastModified": 1764778446421
-  },
-  {
     "id": "0LfWSvBou3-E0yHYICUaz",
     "name": "sfbx1200.pfb",
     "path": "/.texlyre_cache/__tex/sfbx1200.pfb",
@@ -67,21 +60,11 @@
     "isBinary": false
   },
   {
-    "id": "0xp_EVI6v26BIQFYHsgg1",
-    "name": "progress_report.pdf",
-    "path": "/.texlyre_src/__output/progress_report.pdf",
-    "type": "file",
-    "lastModified": 1764778446427,
-    "size": 260411,
-    "mimeType": "application/pdf",
-    "isBinary": true
-  },
-  {
     "id": "1OI8IEuiypIz80U0-nISZ",
     "name": "pgfkeys.sty",
     "path": "/.texlyre_cache/__tex/pgfkeys.sty",
     "type": "file",
-    "lastModified": 1764778446779,
+    "lastModified": 1764780031766,
     "size": 274,
     "mimeType": "application/octet-stream",
     "isBinary": false
@@ -101,7 +84,7 @@
     "name": "pgfrcs.sty",
     "path": "/.texlyre_cache/__tex/pgfrcs.sty",
     "type": "file",
-    "lastModified": 1764778446771,
+    "lastModified": 1764780031750,
     "size": 325,
     "mimeType": "application/octet-stream",
     "isBinary": false
@@ -111,7 +94,7 @@
     "name": "cmsy8.pfb",
     "path": "/.texlyre_cache/__tex/cmsy8.pfb",
     "type": "file",
-    "lastModified": 1764778446793,
+    "lastModified": 1764780031776,
     "size": 32626,
     "mimeType": "application/x-font-type1",
     "isBinary": false
@@ -128,7 +111,7 @@
     "name": "tikzlibrarydecorations.code.tex",
     "path": "/.texlyre_cache/__tex/tikzlibrarydecorations.code.tex",
     "type": "file",
-    "lastModified": 1764778446792,
+    "lastModified": 1764780031775,
     "size": 5493,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -145,7 +128,7 @@
     "name": "pgflibraryfpu.code.tex",
     "path": "/.texlyre_cache/__tex/pgflibraryfpu.code.tex",
     "type": "file",
-    "lastModified": 1764778446786,
+    "lastModified": 1764780031771,
     "size": 83910,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -155,7 +138,7 @@
     "name": "pgfmath.sty",
     "path": "/.texlyre_cache/__tex/pgfmath.sty",
     "type": "file",
-    "lastModified": 1764778446780,
+    "lastModified": 1764780031766,
     "size": 306,
     "mimeType": "application/octet-stream",
     "isBinary": false
@@ -175,7 +158,7 @@
     "name": "pgfmath.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmath.code.tex",
     "type": "file",
-    "lastModified": 1764778446773,
+    "lastModified": 1764780031758,
     "size": 521,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -185,7 +168,7 @@
     "name": "pgfmathutil.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmathutil.code.tex",
     "type": "file",
-    "lastModified": 1764778446773,
+    "lastModified": 1764780031758,
     "size": 8471,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -195,7 +178,7 @@
     "name": "pgfcorepathprocessing.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcorepathprocessing.code.tex",
     "type": "file",
-    "lastModified": 1764778446778,
+    "lastModified": 1764780031765,
     "size": 17311,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -205,7 +188,7 @@
     "name": "pgflibraryplotmarks.code.tex",
     "path": "/.texlyre_cache/__tex/pgflibraryplotmarks.code.tex",
     "type": "file",
-    "lastModified": 1764778446793,
+    "lastModified": 1764780031775,
     "size": 14524,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -215,7 +198,7 @@
     "name": "cmmi8.pfb",
     "path": "/.texlyre_cache/__tex/cmmi8.pfb",
     "type": "file",
-    "lastModified": 1764778446793,
+    "lastModified": 1764780031775,
     "size": 35469,
     "mimeType": "application/x-font-type1",
     "isBinary": false
@@ -235,7 +218,7 @@
     "name": "pgfplotsarray.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotsarray.code.tex",
     "type": "file",
-    "lastModified": 1764778446787,
+    "lastModified": 1764780031772,
     "size": 23537,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -265,7 +248,7 @@
     "name": "pgfplotsmeshplotimage.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotsmeshplotimage.code.tex",
     "type": "file",
-    "lastModified": 1764778446787,
+    "lastModified": 1764780031773,
     "size": 24402,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -305,7 +288,7 @@
     "name": "pgfplotssysgeneric.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotssysgeneric.code.tex",
     "type": "file",
-    "lastModified": 1764778446785,
+    "lastModified": 1764780031771,
     "size": 3095,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -322,7 +305,7 @@
     "name": "pgfsys.code.tex",
     "path": "/.texlyre_cache/__tex/pgfsys.code.tex",
     "type": "file",
-    "lastModified": 1764778446772,
+    "lastModified": 1764780031756,
     "size": 60269,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -342,7 +325,7 @@
     "name": "pgfplotsplothandlers.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotsplothandlers.code.tex",
     "type": "file",
-    "lastModified": 1764778446787,
+    "lastModified": 1764780031773,
     "size": 117673,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -382,7 +365,7 @@
     "name": "tikz.sty",
     "path": "/.texlyre_cache/__tex/tikz.sty",
     "type": "file",
-    "lastModified": 1764778446768,
+    "lastModified": 1764780031750,
     "size": 339,
     "mimeType": "application/octet-stream",
     "isBinary": false
@@ -399,7 +382,7 @@
     "name": "pgfmathfunctions.integerarithmetics.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmathfunctions.integerarithmetics.code.tex",
     "type": "file",
-    "lastModified": 1764778446777,
+    "lastModified": 1764780031763,
     "size": 3177,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -429,7 +412,7 @@
     "name": "pgflibrarypgfplots.surfshading.code.tex",
     "path": "/.texlyre_cache/__tex/pgflibrarypgfplots.surfshading.code.tex",
     "type": "file",
-    "lastModified": 1764778446787,
+    "lastModified": 1764780031772,
     "size": 22701,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -449,7 +432,7 @@
     "name": "pgfmathfunctions.trigonometric.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmathfunctions.trigonometric.code.tex",
     "type": "file",
-    "lastModified": 1764778446774,
+    "lastModified": 1764780031759,
     "size": 92405,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -459,7 +442,7 @@
     "name": "pgfplots.revision.tex",
     "path": "/.texlyre_cache/__tex/pgfplots.revision.tex",
     "type": "file",
-    "lastModified": 1764778446782,
+    "lastModified": 1764780031767,
     "size": 516,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -469,7 +452,7 @@
     "name": "everyshi.sty",
     "path": "/.texlyre_cache/__tex/everyshi.sty",
     "type": "file",
-    "lastModified": 1764778446772,
+    "lastModified": 1764780031753,
     "size": 3878,
     "mimeType": "application/octet-stream",
     "isBinary": false
@@ -489,7 +472,7 @@
     "name": "pgffor.code.tex",
     "path": "/.texlyre_cache/__tex/pgffor.code.tex",
     "type": "file",
-    "lastModified": 1764778446780,
+    "lastModified": 1764780031766,
     "size": 23777,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -499,7 +482,7 @@
     "name": "pgfcorescopes.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcorescopes.code.tex",
     "type": "file",
-    "lastModified": 1764778446778,
+    "lastModified": 1764780031764,
     "size": 20726,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -509,7 +492,7 @@
     "name": "pgfmathfunctions.random.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmathfunctions.random.code.tex",
     "type": "file",
-    "lastModified": 1764778446774,
+    "lastModified": 1764780031759,
     "size": 7787,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -529,7 +512,7 @@
     "name": "float.sty",
     "path": "/.texlyre_cache/__tex/float.sty",
     "type": "file",
-    "lastModified": 1764778446694,
+    "lastModified": 1764780031737,
     "size": 6749,
     "mimeType": "application/octet-stream",
     "isBinary": false
@@ -549,7 +532,7 @@
     "name": "pgf.cfg",
     "path": "/.texlyre_cache/__tex/pgf.cfg",
     "type": "file",
-    "lastModified": 1764778446773,
+    "lastModified": 1764780031758,
     "size": 926,
     "mimeType": "application/octet-stream",
     "isBinary": false
@@ -569,7 +552,7 @@
     "name": "tikzlibraryshapes.geometric.code.tex",
     "path": "/.texlyre_cache/__tex/tikzlibraryshapes.geometric.code.tex",
     "type": "file",
-    "lastModified": 1764778446780,
+    "lastModified": 1764780031767,
     "size": 339,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -589,7 +572,7 @@
     "name": "pgfmathfunctions.base.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmathfunctions.base.code.tex",
     "type": "file",
-    "lastModified": 1764778446777,
+    "lastModified": 1764780031760,
     "size": 10157,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -629,7 +612,7 @@
     "name": "pgffor.sty",
     "path": "/.texlyre_cache/__tex/pgffor.sty",
     "type": "file",
-    "lastModified": 1764778446779,
+    "lastModified": 1764780031766,
     "size": 348,
     "mimeType": "application/octet-stream",
     "isBinary": false
@@ -659,7 +642,7 @@
     "name": "tikzlibrarydecorations.pathmorphing.code.tex",
     "path": "/.texlyre_cache/__tex/tikzlibrarydecorations.pathmorphing.code.tex",
     "type": "file",
-    "lastModified": 1764778446793,
+    "lastModified": 1764780031775,
     "size": 321,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -669,7 +652,7 @@
     "name": "pgfplots.scaling.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplots.scaling.code.tex",
     "type": "file",
-    "lastModified": 1764778446788,
+    "lastModified": 1764780031773,
     "size": 123680,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -699,7 +682,7 @@
     "name": "pgfcoreshade.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcoreshade.code.tex",
     "type": "file",
-    "lastModified": 1764778446779,
+    "lastModified": 1764780031765,
     "size": 35249,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -709,7 +692,7 @@
     "name": "pgfutil-common.tex",
     "path": "/.texlyre_cache/__tex/pgfutil-common.tex",
     "type": "file",
-    "lastModified": 1764778446771,
+    "lastModified": 1764780031750,
     "size": 28309,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -739,7 +722,7 @@
     "name": "pgfplotsutil.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotsutil.code.tex",
     "type": "file",
-    "lastModified": 1764778446786,
+    "lastModified": 1764780031771,
     "size": 69300,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -749,9 +732,19 @@
     "name": "pgfmathfunctions.basic.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmathfunctions.basic.code.tex",
     "type": "file",
-    "lastModified": 1764778446774,
+    "lastModified": 1764780031759,
     "size": 28176,
     "mimeType": "application/x-tex",
+    "isBinary": false
+  },
+  {
+    "id": "IrbxO9EU7xEnXer7TjgXj",
+    "name": "progress_report.log",
+    "path": "/.texlyre_src/__output/progress_report.log",
+    "type": "file",
+    "lastModified": 1764780031577,
+    "size": 5654,
+    "mimeType": "text/plain",
     "isBinary": false
   },
   {
@@ -769,7 +762,7 @@
     "name": "ecss1095.tfm",
     "path": "/.texlyre_cache/__tex/ecss1095.tfm",
     "type": "file",
-    "lastModified": 1764778446794,
+    "lastModified": 1764780031776,
     "size": 3584,
     "mimeType": "application/x-tex-tfm",
     "isBinary": true
@@ -789,7 +782,7 @@
     "name": "pgfcorequick.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcorequick.code.tex",
     "type": "file",
-    "lastModified": 1764778446778,
+    "lastModified": 1764780031765,
     "size": 2965,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -809,7 +802,7 @@
     "name": "pgfmathfunctions.round.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmathfunctions.round.code.tex",
     "type": "file",
-    "lastModified": 1764778446777,
+    "lastModified": 1764780031763,
     "size": 3379,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -819,7 +812,7 @@
     "name": "pgfplots.errorbars.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplots.errorbars.code.tex",
     "type": "file",
-    "lastModified": 1764778446788,
+    "lastModified": 1764780031774,
     "size": 22428,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -839,7 +832,7 @@
     "name": "pgfcore.sty",
     "path": "/.texlyre_cache/__tex/pgfcore.sty",
     "type": "file",
-    "lastModified": 1764778446772,
+    "lastModified": 1764780031756,
     "size": 410,
     "mimeType": "application/octet-stream",
     "isBinary": false
@@ -849,7 +842,7 @@
     "name": "t1cmss.fd",
     "path": "/.texlyre_cache/__tex/t1cmss.fd",
     "type": "file",
-    "lastModified": 1764778446794,
+    "lastModified": 1764780031776,
     "size": 2622,
     "mimeType": "application/octet-stream",
     "isBinary": false
@@ -859,7 +852,7 @@
     "name": "pgfmathfunctions.misc.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmathfunctions.misc.code.tex",
     "type": "file",
-    "lastModified": 1764778446777,
+    "lastModified": 1764780031763,
     "size": 10925,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -869,7 +862,7 @@
     "name": "pgfcorelayers.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcorelayers.code.tex",
     "type": "file",
-    "lastModified": 1764778446779,
+    "lastModified": 1764780031765,
     "size": 4883,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -899,7 +892,7 @@
     "name": "pgfplotscolormap.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotscolormap.code.tex",
     "type": "file",
-    "lastModified": 1764778446787,
+    "lastModified": 1764780031773,
     "size": 88956,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -919,7 +912,7 @@
     "name": "pgfplotsticks.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotsticks.code.tex",
     "type": "file",
-    "lastModified": 1764778446792,
+    "lastModified": 1764780031774,
     "size": 91093,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -929,7 +922,7 @@
     "name": "pgfplots.paths.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplots.paths.code.tex",
     "type": "file",
-    "lastModified": 1764778446792,
+    "lastModified": 1764780031774,
     "size": 2419,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -939,7 +932,7 @@
     "name": "pgfplotsbinary.data.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotsbinary.data.code.tex",
     "type": "file",
-    "lastModified": 1764778446787,
+    "lastModified": 1764780031772,
     "size": 26859,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -949,7 +942,7 @@
     "name": "pgfcomp-version-0-65.sty",
     "path": "/.texlyre_cache/__tex/pgfcomp-version-0-65.sty",
     "type": "file",
-    "lastModified": 1764778446779,
+    "lastModified": 1764780031766,
     "size": 21013,
     "mimeType": "application/octet-stream",
     "isBinary": false
@@ -959,7 +952,7 @@
     "name": "pgfplots.sty",
     "path": "/.texlyre_cache/__tex/pgfplots.sty",
     "type": "file",
-    "lastModified": 1764778446782,
+    "lastModified": 1764780031767,
     "size": 4904,
     "mimeType": "application/octet-stream",
     "isBinary": false
@@ -969,7 +962,7 @@
     "name": "msbm5.tfm",
     "path": "/.texlyre_cache/__tex/msbm5.tfm",
     "type": "file",
-    "lastModified": 1764778446794,
+    "lastModified": 1764780031776,
     "size": 940,
     "mimeType": "application/x-tex-tfm",
     "isBinary": true
@@ -979,7 +972,7 @@
     "name": "pgfplotstableshared.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotstableshared.code.tex",
     "type": "file",
-    "lastModified": 1764778446787,
+    "lastModified": 1764780031772,
     "size": 79639,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -989,7 +982,7 @@
     "name": "pgfcoreexternal.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcoreexternal.code.tex",
     "type": "file",
-    "lastModified": 1764778446779,
+    "lastModified": 1764780031765,
     "size": 19324,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -999,7 +992,7 @@
     "name": "pgfcore.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcore.code.tex",
     "type": "file",
-    "lastModified": 1764778446773,
+    "lastModified": 1764780031758,
     "size": 992,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1029,7 +1022,7 @@
     "name": "pgfcoreobjects.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcoreobjects.code.tex",
     "type": "file",
-    "lastModified": 1764778446778,
+    "lastModified": 1764780031765,
     "size": 2544,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1039,7 +1032,7 @@
     "name": "pgfmoduledecorations.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmoduledecorations.code.tex",
     "type": "file",
-    "lastModified": 1764778446792,
+    "lastModified": 1764780031775,
     "size": 71722,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1049,7 +1042,7 @@
     "name": "tikzlibrarydecorations.pathreplacing.code.tex",
     "path": "/.texlyre_cache/__tex/tikzlibrarydecorations.pathreplacing.code.tex",
     "type": "file",
-    "lastModified": 1764778446793,
+    "lastModified": 1764780031775,
     "size": 1319,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1099,7 +1092,7 @@
     "name": "pgfplotsliststructure.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotsliststructure.code.tex",
     "type": "file",
-    "lastModified": 1764778446786,
+    "lastModified": 1764780031771,
     "size": 13828,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1109,7 +1102,7 @@
     "name": "pgfmoduleplot.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmoduleplot.code.tex",
     "type": "file",
-    "lastModified": 1764778446779,
+    "lastModified": 1764780031766,
     "size": 16121,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1129,7 +1122,7 @@
     "name": "pgflibrarypgfplots.surfshading.pgfsys-pdftex.def",
     "path": "/.texlyre_cache/__tex/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def",
     "type": "file",
-    "lastModified": 1764778446787,
+    "lastModified": 1764780031772,
     "size": 5907,
     "mimeType": "text/plain",
     "isBinary": false
@@ -1139,7 +1132,7 @@
     "name": "cmex10.pfb",
     "path": "/.texlyre_cache/__tex/cmex10.pfb",
     "type": "file",
-    "lastModified": 1764778446793,
+    "lastModified": 1764780031775,
     "size": 30251,
     "mimeType": "application/x-font-type1",
     "isBinary": false
@@ -1149,7 +1142,7 @@
     "name": "pgfplotscolor.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotscolor.code.tex",
     "type": "file",
-    "lastModified": 1764778446787,
+    "lastModified": 1764780031773,
     "size": 23958,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1159,7 +1152,7 @@
     "name": "pgfrcs.code.tex",
     "path": "/.texlyre_cache/__tex/pgfrcs.code.tex",
     "type": "file",
-    "lastModified": 1764778446772,
+    "lastModified": 1764780031756,
     "size": 4494,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1176,7 +1169,7 @@
     "name": "pgfkeysfiltered.code.tex",
     "path": "/.texlyre_cache/__tex/pgfkeysfiltered.code.tex",
     "type": "file",
-    "lastModified": 1764778446773,
+    "lastModified": 1764780031757,
     "size": 37439,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1186,7 +1179,7 @@
     "name": "pgfint.code.tex",
     "path": "/.texlyre_cache/__tex/pgfint.code.tex",
     "type": "file",
-    "lastModified": 1764778446777,
+    "lastModified": 1764780031764,
     "size": 3063,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1196,7 +1189,7 @@
     "name": "pgfutil-latex.def",
     "path": "/.texlyre_cache/__tex/pgfutil-latex.def",
     "type": "file",
-    "lastModified": 1764778446772,
+    "lastModified": 1764780031753,
     "size": 6286,
     "mimeType": "text/plain",
     "isBinary": false
@@ -1206,7 +1199,7 @@
     "name": "ecrm1000.tfm",
     "path": "/.texlyre_cache/__tex/ecrm1000.tfm",
     "type": "file",
-    "lastModified": 1764778446782,
+    "lastModified": 1764780031767,
     "size": 3584,
     "mimeType": "application/x-tex-tfm",
     "isBinary": true
@@ -1226,7 +1219,7 @@
     "name": "pgfcorearrows.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcorearrows.code.tex",
     "type": "file",
-    "lastModified": 1764778446778,
+    "lastModified": 1764780031765,
     "size": 43820,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1236,7 +1229,7 @@
     "name": "pgfcoretransformations.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcoretransformations.code.tex",
     "type": "file",
-    "lastModified": 1764778446778,
+    "lastModified": 1764780031765,
     "size": 21989,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1256,7 +1249,7 @@
     "name": "pgfmoduleshapes.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmoduleshapes.code.tex",
     "type": "file",
-    "lastModified": 1764778446779,
+    "lastModified": 1764780031766,
     "size": 43259,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1286,7 +1279,7 @@
     "name": "pgfplotsliststructureext.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotsliststructureext.code.tex",
     "type": "file",
-    "lastModified": 1764778446786,
+    "lastModified": 1764780031771,
     "size": 24373,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1316,7 +1309,7 @@
     "name": "pgfcomp-version-1-18.sty",
     "path": "/.texlyre_cache/__tex/pgfcomp-version-1-18.sty",
     "type": "file",
-    "lastModified": 1764778446779,
+    "lastModified": 1764780031766,
     "size": 989,
     "mimeType": "application/octet-stream",
     "isBinary": false
@@ -1336,7 +1329,7 @@
     "name": "pgfplotscoordprocessing.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotscoordprocessing.code.tex",
     "type": "file",
-    "lastModified": 1764778446788,
+    "lastModified": 1764780031774,
     "size": 364778,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1356,7 +1349,7 @@
     "name": "cmr8.pfb",
     "path": "/.texlyre_cache/__tex/cmr8.pfb",
     "type": "file",
-    "lastModified": 1764778446793,
+    "lastModified": 1764780031776,
     "size": 32726,
     "mimeType": "application/x-font-type1",
     "isBinary": false
@@ -1366,7 +1359,7 @@
     "name": "tcrm1000.tfm",
     "path": "/.texlyre_cache/__tex/tcrm1000.tfm",
     "type": "file",
-    "lastModified": 1764778446782,
+    "lastModified": 1764780031767,
     "size": 1536,
     "mimeType": "application/x-tex-tfm",
     "isBinary": true
@@ -1386,7 +1379,7 @@
     "name": "pgfcorepoints.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcorepoints.code.tex",
     "type": "file",
-    "lastModified": 1764778446777,
+    "lastModified": 1764780031764,
     "size": 33335,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1436,7 +1429,7 @@
     "name": "xcolor.sty",
     "path": "/.texlyre_cache/__tex/xcolor.sty",
     "type": "file",
-    "lastModified": 1764778446773,
+    "lastModified": 1764780031758,
     "size": 55589,
     "mimeType": "application/octet-stream",
     "isBinary": false
@@ -1456,7 +1449,7 @@
     "name": "pgfcoretransparency.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcoretransparency.code.tex",
     "type": "file",
-    "lastModified": 1764778446779,
+    "lastModified": 1764780031765,
     "size": 8842,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1496,7 +1489,7 @@
     "name": "pgfmathfunctions.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmathfunctions.code.tex",
     "type": "file",
-    "lastModified": 1764778446774,
+    "lastModified": 1764780031759,
     "size": 9054,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1506,7 +1499,7 @@
     "name": "pgflibraryshapes.geometric.code.tex",
     "path": "/.texlyre_cache/__tex/pgflibraryshapes.geometric.code.tex",
     "type": "file",
-    "lastModified": 1764778446782,
+    "lastModified": 1764780031767,
     "size": 160992,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1516,7 +1509,7 @@
     "name": "pgf.sty",
     "path": "/.texlyre_cache/__tex/pgf.sty",
     "type": "file",
-    "lastModified": 1764778446769,
+    "lastModified": 1764780031750,
     "size": 1090,
     "mimeType": "application/octet-stream",
     "isBinary": false
@@ -1526,7 +1519,7 @@
     "name": "pgfsys-common-pdf.def",
     "path": "/.texlyre_cache/__tex/pgfsys-common-pdf.def",
     "type": "file",
-    "lastModified": 1764778446773,
+    "lastModified": 1764780031758,
     "size": 5546,
     "mimeType": "text/plain",
     "isBinary": false
@@ -1576,7 +1569,7 @@
     "name": "pgfcorepatterns.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcorepatterns.code.tex",
     "type": "file",
-    "lastModified": 1764778446779,
+    "lastModified": 1764780031765,
     "size": 9690,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1586,7 +1579,7 @@
     "name": "pgfplotsbinary.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotsbinary.code.tex",
     "type": "file",
-    "lastModified": 1764778446787,
+    "lastModified": 1764780031772,
     "size": 23050,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1596,7 +1589,7 @@
     "name": "pgflibraryplothandlers.code.tex",
     "path": "/.texlyre_cache/__tex/pgflibraryplothandlers.code.tex",
     "type": "file",
-    "lastModified": 1764778446780,
+    "lastModified": 1764780031767,
     "size": 32995,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1656,7 +1649,7 @@
     "name": "pgfplots.markers.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplots.markers.code.tex",
     "type": "file",
-    "lastModified": 1764778446788,
+    "lastModified": 1764780031774,
     "size": 12462,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1716,7 +1709,7 @@
     "name": "pgfsys-pdftex.def",
     "path": "/.texlyre_cache/__tex/pgfsys-pdftex.def",
     "type": "file",
-    "lastModified": 1764778446773,
+    "lastModified": 1764780031758,
     "size": 12603,
     "mimeType": "text/plain",
     "isBinary": false
@@ -1726,8 +1719,8 @@
     "name": "progress_report.tex",
     "path": "/research-project/progress_report.tex",
     "type": "file",
-    "lastModified": 1764778626668,
-    "size": 14777,
+    "lastModified": 1764780068004,
+    "size": 15158,
     "mimeType": "application/x-tex",
     "isBinary": false
   },
@@ -1756,7 +1749,7 @@
     "name": "pgfkeys.code.tex",
     "path": "/.texlyre_cache/__tex/pgfkeys.code.tex",
     "type": "file",
-    "lastModified": 1764778446773,
+    "lastModified": 1764780031756,
     "size": 36815,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1776,7 +1769,7 @@
     "name": "ecrm0700.tfm",
     "path": "/.texlyre_cache/__tex/ecrm0700.tfm",
     "type": "file",
-    "lastModified": 1764778446794,
+    "lastModified": 1764780031777,
     "size": 3584,
     "mimeType": "application/x-tex-tfm",
     "isBinary": true
@@ -1796,7 +1789,7 @@
     "name": "msam5.tfm",
     "path": "/.texlyre_cache/__tex/msam5.tfm",
     "type": "file",
-    "lastModified": 1764778446794,
+    "lastModified": 1764780031776,
     "size": 924,
     "mimeType": "application/x-tex-tfm",
     "isBinary": true
@@ -1816,7 +1809,7 @@
     "name": "sfrm1000.pfb",
     "path": "/.texlyre_cache/__tex/sfrm1000.pfb",
     "type": "file",
-    "lastModified": 1764778446794,
+    "lastModified": 1764780031776,
     "size": 138258,
     "mimeType": "application/x-font-type1",
     "isBinary": false
@@ -1846,7 +1839,7 @@
     "name": "ecbx1095.tfm",
     "path": "/.texlyre_cache/__tex/ecbx1095.tfm",
     "type": "file",
-    "lastModified": 1764778446794,
+    "lastModified": 1764780031776,
     "size": 3584,
     "mimeType": "application/x-tex-tfm",
     "isBinary": true
@@ -1856,7 +1849,7 @@
     "name": "pgfmathfloat.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmathfloat.code.tex",
     "type": "file",
-    "lastModified": 1764778446777,
+    "lastModified": 1764780031764,
     "size": 104938,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1893,19 +1886,9 @@
     "name": "subcaption.sty",
     "path": "/.texlyre_cache/__tex/subcaption.sty",
     "type": "file",
-    "lastModified": 1764778446704,
+    "lastModified": 1764780031747,
     "size": 5937,
     "mimeType": "application/octet-stream",
-    "isBinary": false
-  },
-  {
-    "id": "he3rNQzdfDJxU9JfNInaL",
-    "name": "progress_report.log",
-    "path": "/.texlyre_src/__output/progress_report.log",
-    "type": "file",
-    "lastModified": 1764778446493,
-    "size": 5654,
-    "mimeType": "text/plain",
     "isBinary": false
   },
   {
@@ -1933,7 +1916,7 @@
     "name": "tikzlibrarypositioning.code.tex",
     "path": "/.texlyre_cache/__tex/tikzlibrarypositioning.code.tex",
     "type": "file",
-    "lastModified": 1764778446780,
+    "lastModified": 1764780031767,
     "size": 3937,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1953,7 +1936,7 @@
     "name": "pgfcorepathusage.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcorepathusage.code.tex",
     "type": "file",
-    "lastModified": 1764778446778,
+    "lastModified": 1764780031764,
     "size": 21302,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1983,7 +1966,7 @@
     "name": "pgfplotsutil.verb.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotsutil.verb.code.tex",
     "type": "file",
-    "lastModified": 1764778446787,
+    "lastModified": 1764780031772,
     "size": 3286,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -1993,7 +1976,7 @@
     "name": "pgfplotsdeque.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotsdeque.code.tex",
     "type": "file",
-    "lastModified": 1764778446787,
+    "lastModified": 1764780031772,
     "size": 4288,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2033,7 +2016,7 @@
     "name": "sfrm0700.pfb",
     "path": "/.texlyre_cache/__tex/sfrm0700.pfb",
     "type": "file",
-    "lastModified": 1764778446794,
+    "lastModified": 1764780031777,
     "size": 154599,
     "mimeType": "application/x-font-type1",
     "isBinary": false
@@ -2053,7 +2036,7 @@
     "name": "pgfplotsmeshplothandler.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotsmeshplothandler.code.tex",
     "type": "file",
-    "lastModified": 1764778446787,
+    "lastModified": 1764780031773,
     "size": 133871,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2073,7 +2056,7 @@
     "name": "cmsy10.pfb",
     "path": "/.texlyre_cache/__tex/cmsy10.pfb",
     "type": "file",
-    "lastModified": 1764778446793,
+    "lastModified": 1764780031776,
     "size": 32569,
     "mimeType": "application/x-font-type1",
     "isBinary": false
@@ -2083,7 +2066,7 @@
     "name": "pgfplots.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplots.code.tex",
     "type": "file",
-    "lastModified": 1764778446783,
+    "lastModified": 1764780031770,
     "size": 481695,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2093,7 +2076,7 @@
     "name": "tikzlibrarytopaths.code.tex",
     "path": "/.texlyre_cache/__tex/tikzlibrarytopaths.code.tex",
     "type": "file",
-    "lastModified": 1764778446780,
+    "lastModified": 1764780031767,
     "size": 11544,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2123,7 +2106,7 @@
     "name": "tikz.code.tex",
     "path": "/.texlyre_cache/__tex/tikz.code.tex",
     "type": "file",
-    "lastModified": 1764778446780,
+    "lastModified": 1764780031766,
     "size": 187592,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2133,7 +2116,7 @@
     "name": "pgfmathcalc.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmathcalc.code.tex",
     "type": "file",
-    "lastModified": 1764778446773,
+    "lastModified": 1764780031758,
     "size": 13391,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2143,7 +2126,7 @@
     "name": "pgfplotscore.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotscore.code.tex",
     "type": "file",
-    "lastModified": 1764778446785,
+    "lastModified": 1764780031771,
     "size": 19944,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2153,7 +2136,7 @@
     "name": "pgfsyssoftpath.code.tex",
     "path": "/.texlyre_cache/__tex/pgfsyssoftpath.code.tex",
     "type": "file",
-    "lastModified": 1764778446773,
+    "lastModified": 1764780031758,
     "size": 7778,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2163,7 +2146,7 @@
     "name": "ecsx1095.tfm",
     "path": "/.texlyre_cache/__tex/ecsx1095.tfm",
     "type": "file",
-    "lastModified": 1764778446794,
+    "lastModified": 1764780031776,
     "size": 3584,
     "mimeType": "application/x-tex-tfm",
     "isBinary": true
@@ -2183,7 +2166,7 @@
     "name": "pgfmodulematrix.code.tex",
     "path": "/.texlyre_cache/__tex/pgfmodulematrix.code.tex",
     "type": "file",
-    "lastModified": 1764778446780,
+    "lastModified": 1764780031767,
     "size": 21201,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2193,7 +2176,7 @@
     "name": "pgfplotsmatrix.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotsmatrix.code.tex",
     "type": "file",
-    "lastModified": 1764778446787,
+    "lastModified": 1764780031772,
     "size": 18861,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2213,7 +2196,7 @@
     "name": "pgfsysprotocol.code.tex",
     "path": "/.texlyre_cache/__tex/pgfsysprotocol.code.tex",
     "type": "file",
-    "lastModified": 1764778446773,
+    "lastModified": 1764780031758,
     "size": 1896,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2223,7 +2206,7 @@
     "name": "pgfplotsstackedplots.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotsstackedplots.code.tex",
     "type": "file",
-    "lastModified": 1764778446787,
+    "lastModified": 1764780031773,
     "size": 26190,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2233,7 +2216,7 @@
     "name": "pgfutil-common-lists.tex",
     "path": "/.texlyre_cache/__tex/pgfutil-common-lists.tex",
     "type": "file",
-    "lastModified": 1764778446772,
+    "lastModified": 1764780031750,
     "size": 7250,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2269,6 +2252,13 @@
     "isBinary": true
   },
   {
+    "id": "qAWBVU-Td7GNMCF680gC3",
+    "name": "__work",
+    "path": "/.texlyre_src/__work",
+    "type": "directory",
+    "lastModified": 1764780031511
+  },
+  {
     "id": "qBSu-9BHv1b8saZXdFEkb",
     "name": "bham_crest.pdf",
     "path": "/research-project/figures/bham_crest.pdf",
@@ -2279,11 +2269,21 @@
     "isBinary": true
   },
   {
+    "id": "qZm1gnYV2umW9nadsqWZ7",
+    "name": "progress_report.pdf",
+    "path": "/.texlyre_src/__output/progress_report.pdf",
+    "type": "file",
+    "lastModified": 1764780031511,
+    "size": 261388,
+    "mimeType": "application/pdf",
+    "isBinary": true
+  },
+  {
     "id": "qcOfNg-hU1ZuwEfxlUyPh",
     "name": "sfrm0800.pfb",
     "path": "/.texlyre_cache/__tex/sfrm0800.pfb",
     "type": "file",
-    "lastModified": 1764778446795,
+    "lastModified": 1764780031777,
     "size": 164227,
     "mimeType": "application/x-font-type1",
     "isBinary": false
@@ -2333,17 +2333,17 @@
     "name": "pgfsys-luatex.def",
     "path": "/.texlyre_cache/__tex/pgfsys-luatex.def",
     "type": "file",
-    "lastModified": 1764778446782,
+    "lastModified": 1764780031768,
     "size": 13214,
     "mimeType": "text/plain",
     "isBinary": false
   },
   {
-    "id": "rv85ol_uMFhLDv6TRux0T",
-    "name": "__work",
-    "path": "/.texlyre_src/__work",
+    "id": "rrLaXGrv3QJ9gdnmA6Hpz",
+    "name": "__output",
+    "path": "/.texlyre_src/__output",
     "type": "directory",
-    "lastModified": 1764778446425
+    "lastModified": 1764780031509
   },
   {
     "id": "s4swnEpTcH1OOZSUxPUTV",
@@ -2360,7 +2360,7 @@
     "name": "pgflibrarydecorations.pathmorphing.code.tex",
     "path": "/.texlyre_cache/__tex/pgflibrarydecorations.pathmorphing.code.tex",
     "type": "file",
-    "lastModified": 1764778446793,
+    "lastModified": 1764780031775,
     "size": 8843,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2390,7 +2390,7 @@
     "name": "pgfcoreimage.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcoreimage.code.tex",
     "type": "file",
-    "lastModified": 1764778446779,
+    "lastModified": 1764780031765,
     "size": 6948,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2400,7 +2400,7 @@
     "name": "pgfplotslibrary.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotslibrary.code.tex",
     "type": "file",
-    "lastModified": 1764778446785,
+    "lastModified": 1764780031771,
     "size": 3047,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2410,7 +2410,7 @@
     "name": "pgfcorerdf.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcorerdf.code.tex",
     "type": "file",
-    "lastModified": 1764778446779,
+    "lastModified": 1764780031766,
     "size": 5196,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2420,7 +2420,7 @@
     "name": "tikzlibraryplotmarks.code.tex",
     "path": "/.texlyre_cache/__tex/tikzlibraryplotmarks.code.tex",
     "type": "file",
-    "lastModified": 1764778446793,
+    "lastModified": 1764780031775,
     "size": 325,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2450,7 +2450,7 @@
     "name": "pgfplotsoldpgfsupp_loader.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotsoldpgfsupp_loader.code.tex",
     "type": "file",
-    "lastModified": 1764778446786,
+    "lastModified": 1764780031771,
     "size": 11930,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2460,7 +2460,7 @@
     "name": "pgf.revision.tex",
     "path": "/.texlyre_cache/__tex/pgf.revision.tex",
     "type": "file",
-    "lastModified": 1764778446772,
+    "lastModified": 1764780031756,
     "size": 465,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2490,7 +2490,7 @@
     "name": "pgfsys.sty",
     "path": "/.texlyre_cache/__tex/pgfsys.sty",
     "type": "file",
-    "lastModified": 1764778446772,
+    "lastModified": 1764780031756,
     "size": 443,
     "mimeType": "application/octet-stream",
     "isBinary": false
@@ -2520,7 +2520,7 @@
     "name": "pgfcorepathconstruct.code.tex",
     "path": "/.texlyre_cache/__tex/pgfcorepathconstruct.code.tex",
     "type": "file",
-    "lastModified": 1764778446778,
+    "lastModified": 1764780031764,
     "size": 44189,
     "mimeType": "application/x-tex",
     "isBinary": false
@@ -2560,7 +2560,7 @@
     "name": "pgflibrarydecorations.pathreplacing.code.tex",
     "path": "/.texlyre_cache/__tex/pgflibrarydecorations.pathreplacing.code.tex",
     "type": "file",
-    "lastModified": 1764778446793,
+    "lastModified": 1764780031775,
     "size": 7474,
     "mimeType": "application/x-tex",
     "isBinary": false

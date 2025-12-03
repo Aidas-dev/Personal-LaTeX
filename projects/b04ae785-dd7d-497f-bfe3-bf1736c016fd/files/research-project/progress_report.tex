@@ -120,7 +120,7 @@ Our study builds on several key theoretical perspectives:
 \section{Methodology}
 
 \subsection{Experimental Design}
-We employ a within-subjects design with 25 total rounds conducted using oTree software. Each group consists of 5 participants (24 groups in main study, 120 total participants), with group composition remaining stable throughout the experiment.
+We employ a within-subjects design with 25 total rounds conducted using oTree software. Each group consists of 5 participants (24 groups in main study, 120 total participants), with group composition remaining stable throughout the experiment. The participants will be Vilnius university students, no economics students.
 
 \begin{equation}
 \text{Earnings}_i = \text{Endowment} - \text{Contribution}_i + \text{MPCR} \times \sum_{j=1}^{N} \text{Contribution}_j
@@ -245,7 +245,7 @@ where $B_i$ is bonus from pool distributed to top 2 contributors.\footnote{If al
 Based on established experimental economics standards and power calculations:
 
 \begin{equation}
-n = \frac{(Z_{\alpha/2} + Z_{\beta})^2 \times 2\sigma^2}{\delta^2}
+n = \frac{(Z_{\alpha/2} + Z_{\beta})^2 \times 2\sigma^2}{\delta^2} \approx 63
 \end{equation}
 
 where:
@@ -279,15 +279,25 @@ We will collect:
     ylabel=Average Contribution,
     xmin=1, xmax=25,
     ymin=0, ymax=10,
-    legend pos=north east,
-    grid=both]
+    legend style={
+        at={(0.5,-0.15)}, % Position below the plot
+        anchor=north,
+        legend columns=2, % Two columns side by side
+        cells={anchor=west},
+        draw=none % Remove box around legend
+    },
+    grid=both,
+    width=0.8\textwidth,
+    height=0.6\textwidth
+]
 \addplot[blue, thick] coordinates {(1,8) (5,3) (6,6) (10,7) (11,7.5) (15,8) (16,8.5) (20,9) (21,9) (25,9)};
-\addlegendentry{With Institutions}
+\addlegendentry{With Institutions (Average of All Institutions)}
 \addplot[red, thick, dashed] coordinates {(1,8) (5,3) (6,2.5) (10,1) (11,1) (15,0.5) (16,0.5) (20,0) (21,0) (25,0)};
 \addlegendentry{Baseline (No Institutions)}
 \end{axis}
 \end{tikzpicture}
 \caption{Expected Contribution Trajectories}
+\label{fig:expected-contributions}
 \end{figure}
 
 \subsection{Analysis Strategy}
@@ -316,13 +326,13 @@ P(\text{Retention}) = f(\text{Past Performance}, \text{Institution Type}, \text{
 \begin{itemize}
 \item Limited number of voting periods (4 elections)
 \item Monetary stakes may not reflect real-world consequences
-\item Potential order effects in institutional presentation
 \end{itemize}
 
 \subsection{Future Extensions}
 \begin{itemize}
 \item Different group sizes
 \item Additional treatments with different starting points
+\item Longer periods between voting
 \end{itemize}
 
 \section{Conclusion}
