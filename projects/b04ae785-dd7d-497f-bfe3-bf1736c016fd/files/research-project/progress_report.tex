@@ -49,7 +49,7 @@
 \onehalfspacing
 
 Date: \today{}     \hfill{} Project supervisors: \\
-Word count: 1469  \hfill{} Dr. Aidas Masiliūnas and Dr. Laura Galdikienė 
+Word count: 737  \hfill{} Dr. Aidas Masiliūnas and Dr. Laura Galdikienė 
 
 {\LARGE Endogenous Institutional Choice in Public Goods Games: A Voting Experiment}
 
@@ -68,9 +68,9 @@ This study investigates how groups endogenously choose governance institutions t
 
 \section{Introduction}
 
-This experiment examines a fundamental question in experimental economics: how do groups endogenously choose governance institutions to solve social dilemmas, and what are the behavioral and efficiency consequences of these choices? While extensive research has studied the effects of externally imposed institutions on cooperation, much less is known about how groups select their own governance mechanisms through democratic processes.
+This experiment examines a fundamental question in experimental economics: how do groups endogenously choose governance institutions to solve social dilemmas, and what are the behavioral and efficiency consequences of these choices?
 
-The classic public goods game demonstrates the tension between individual and collective interests, typically showing a decay in cooperation over time as free-riding behavior dominates \citep{fehr2000}. Previous research has established that institutions like punishment \citep{fehr2000}, rewards \citep{sefton2007}, and collective mechanisms \citep{tao2016} can sustain cooperation when externally imposed. However, the process by which groups choose among these institutions remains underexplored.
+The classic public goods game demonstrates the tension between individual and collective interests, typically showing a decay in cooperation over time as free-riding behavior dominates \citep{fehr2000, isaac1988}. Previous research has established that institutions like punishment \citep{fehr2000}, rewards \citep{sefton2007}, and collective mechanisms \citep{tao2016} can sustain cooperation when externally imposed. However, the process by which groups choose among these institutions remains underexplored.
 
 \subsection{Research Questions}
 \begin{itemize}
@@ -81,13 +81,13 @@ The classic public goods game demonstrates the tension between individual and co
 \end{itemize}
 
 \subsection{Research Gap and Novelty}
-Most studies examine single institutions or multiple imposed institutions; we compare multiple endogenously implemented institutional types. Our research provides systematic comparison of individual vs. collective and punishment vs. reward mechanisms within a unified experimental framework.
+Most studies examine single democratically chosen institutions \citep{Dannenberg2020Choice, gurerk2006} or multiple imposed institutions \citep{tao2016}; we compare multiple endogenously implemented institutional types. Our research provides systematic comparison of individual vs. collective and punishment vs. reward mechanisms within a unified experimental framework.
 
 \section{Literature Review}
 
-The study of institutional solutions to social dilemmas has a rich history in experimental economics. The standard public goods game, developed by \citet{isaac1988}, reliably demonstrates the cooperation decay phenomenon where contributions decrease over repeated rounds despite the social optimum requiring full cooperation.
+The standard public goods game, developed by \citet{isaac1988} and replicated multiple times, reliably demonstrates the cooperation decay phenomenon where contributions decrease over repeated rounds despite the social optimum requiring full cooperation.
 
-Research on institutional interventions has shown that punishment mechanisms can sustain cooperation \citep{fehr2000}, though they may reduce overall efficiency due to the costs of punishment. Reward systems have also proven effective, though potentially less efficient than punishment \citep{tao2016}.
+Research on institutional interventions has shown that punishment mechanisms can sustain cooperation \citep{fehr2000, Dannenberg2020Choice}, though they may reduce overall efficiency due to the costs of punishment. Reward systems have also proven effective, though potentially less efficient than punishment \citep{tao2016}.
 
 \subsection{Theoretical Framework}
 Our study builds on several key theoretical perspectives:
@@ -99,23 +99,6 @@ Our study builds on several key theoretical perspectives:
 
 %The concept of endogenous institutional choice represents a significant advancement beyond studying externally imposed rules. \citet{ostrom1990} emphasized that successful common-pool resource management often involves users developing their own governance rules, suggesting that the process of institutional selection may itself affect cooperation outcomes.
 
-\section{Predictions and Hypotheses}
-
-\subsection{Theoretical Predictions}
-\begin{itemize}
-    \item \textbf{Institutional Preferences}: Groups prefer individual control over automatic systems initially, but may shift toward collective mechanisms as they learn about relative efficiency
-    \item \textbf{Punishment vs. Reward}: Punishment favored initially due to salience of free-riding
-    \item \textbf{Status Quo Bias}: Groups tend to retain institutions that appear successful
-    \item \textbf{Efficiency Trade-offs}: Automatic systems avoid costly sanctioning
-\end{itemize}
-
-\subsection{Hypotheses}
-\begin{itemize}
-    \item \textbf{H1}: Individual punishment will be most popular initially among institutional options
-    \item \textbf{H2}: Collective institutions will yield highest efficiency in the long run
-    \item \textbf{H3}: Groups will show path dependence in institutional choice (retention rates > 60\%)
-    \item \textbf{H4}: Voting patterns will reflect learning from institutional performance
-\end{itemize}
 
 \section{Methodology}
 
@@ -186,6 +169,8 @@ The experiment proceeds in two main phases:
 \label{fig:experiment-timeline}
 \end{figure}
 
+After each round participants are shown their contribution, profit and the group averages; every 5 rounds they are shown 2 informative graphs.\footnote{These graphs display the average profit and average contribution of all participants, calculated specifically for the preceding 5-round period, this is shown before voting begins.}
+
 \subsection{Institutional Options}
 Participants select from five institutional options every 5 rounds:
 
@@ -213,6 +198,9 @@ Participants select from five institutional options every 5 rounds:
 \subsection{Mathematical Representation of Institutions}
 
 \textbf{Important design feature:} All institutions maintain identical total endowment (10 points per player per round). Punishment and reward points are deducted from participants' own earnings; no institution provides additional spending capacity that would create endowment disparities.
+
+\textbf{Variable definitions:} Endowment $e = 10$, contribution $c_i \in [0,10]$, MPCR $m = 0.4$, group size $N = 5$.
+  
 \begin{itemize}
 \item \textbf{Individual Punishment}: 
 \begin{equation}
@@ -222,7 +210,7 @@ where $p_{ij}$ is punishment points assigned by $i$ to $j$.
 
 \item \textbf{Collective Tax}:
 \begin{equation}
-\pi_i = 0.8(e - c_i) + c_i + m \sum_{j=1}^{N} c_j
+\pi_i = 0.8(e - c_i) - c_i + m \sum_{j=1}^{N} c_j
 \end{equation}
 where 20\% of uncontribued endowment is taxed.
 
@@ -242,20 +230,34 @@ where $B_i$ is bonus from pool distributed to top 2 contributors.\footnote{If al
 
 \subsection{Sample Size and Power Analysis}
 
-Based on established experimental economics standards and power calculations:
-
-\begin{equation}
-n = \frac{(Z_{\alpha/2} + Z_{\beta})^2 \times 2\sigma^2}{\delta^2} \approx 63
-\end{equation}
-
-where:
+\textit{Assumptions:} $\alpha=0.05$, $\beta=0.20$, $\rho=0.5$, $\sigma=4.0$.
+  
+\textbf{1. Group-level analysis (voting outcomes):}
 \begin{itemize}
-\item $\alpha = 0.05$, $\beta = 0.20$ (power = 80\%)
-\item $\sigma$ = expected standard deviation based on previous studies
-\item $\delta$ = minimum detectable effect size (medium: 0.5)
+    \item With 24 independent group observations
+    \item 80\% power to detect: \textbf{$d \approx 0.82$} (large effect) in between-group comparisons
 \end{itemize}
 
-For our main study: 120 participants (24 groups of 5) provides adequate power for detecting medium effect sizes in within-group comparisons.
+\textbf{2. Individual-level analysis (contributions):}
+\begin{itemize}
+    \item With 120 participants in within-subjects design ($\rho = 0.5$)
+    \item 80\% power to detect: \textbf{$d \approx 0.26$} (small-to-medium effect)
+    \item For medium effects ($d = 0.5$): Power $> 98\%$
+\end{itemize}
+
+\textbf{3. Mixed-effects model considerations:}
+With 24 groups and 120 individuals:
+\begin{itemize}
+    \item Adequate for estimating group-level random intercepts
+    \item May be limited for group-by-treatment interactions
+    \item Sufficient for main effects of institutions on contributions
+\end{itemize}
+
+\textbf{Summary:} Our sample provides:
+\begin{itemize}
+    \item High power for \textit{within-individual} comparison of contributions across institutions
+    \item Adequate power for detecting \textit{large effects} in group-level voting patterns
+\end{itemize}
 
 \subsection{Data Collection}
 We will collect:
@@ -266,6 +268,25 @@ We will collect:
 \item Earnings data
 \item Demographic information and post-experiment questionnaires
 \end{itemize}
+
+\section{Predictions and Hypotheses}
+
+\subsection{Theoretical Predictions}
+\begin{itemize}
+    \item \textbf{Institutional Preferences}: Groups prefer individual control over automatic systems initially, but may shift toward collective mechanisms as they learn about relative efficiency
+    \item \textbf{Punishment vs. Reward}: Punishment favored initially due to salience of free-riding
+    \item \textbf{Status Quo Bias}: Groups tend to retain institutions that appear successful
+    \item \textbf{Efficiency Trade-offs}: Automatic systems avoid costly sanctioning
+\end{itemize}
+
+\subsection{Hypotheses}
+\begin{itemize}
+    \item \textbf{H1}: Individual punishment will be most popular initially among institutional options
+    \item \textbf{H2}: Collective institutions will yield highest efficiency in the long run
+    \item \textbf{H3}: Groups will show path dependence in institutional choice (retention rates > 60\%)
+    \item \textbf{H4}: Voting patterns will reflect learning from institutional performance
+\end{itemize}
+
 
 \section{Expected Results and Analysis Strategy}
 
@@ -305,10 +326,8 @@ We will collect:
 \item \textbf{Descriptive Analysis}: Contribution patterns, voting frequencies, earnings distributions
 \item \textbf{Hypothesis Testing}:
 \begin{itemize}
-\item H1: Logistic regression on first voting choice
+\item H1: Regression on first voting choice
 \item H2: Mixed-effects models comparing efficiency across institutions
-\item H3: Transition probability matrices and Markov chain analysis
-\item H4: Learning models with experience-weighted attraction
 \end{itemize}
 \item \textbf{Efficiency Analysis}:
 \begin{equation}
@@ -325,6 +344,7 @@ P(\text{Retention}) = f(\text{Past Performance}, \text{Institution Type}, \text{
 \subsection{Limitations}
 \begin{itemize}
 \item Limited number of voting periods (4 elections)
+\item Interval between voting might be to short
 \item Monetary stakes may not reflect real-world consequences
 \end{itemize}
 
@@ -337,7 +357,7 @@ P(\text{Retention}) = f(\text{Past Performance}, \text{Institution Type}, \text{
 
 \section{Conclusion}
 
-This study provides a novel experimental framework for examining endogenous institutional choice in social dilemmas. By allowing groups to repeatedly select among multiple governance mechanisms, we capture the dynamic nature of institutional evolution that characterizes many real-world collective action problems. Our systematic comparison of individual vs. collective and punishment vs. reward mechanisms within a 2×2 framework advances beyond previous research that typically examines single institutions or imposed rules.
+Our study provides a novel experimental framework for examining endogenous institutional choice in social dilemmas. By allowing groups to repeatedly select among multiple governance mechanisms, we capture the dynamic nature of institutional evolution that characterizes many real-world collective action problems. Our systematic comparison of individual vs. collective and punishment vs. reward mechanisms within a 2×2 framework advances beyond previous research that typically examines single institutions or imposed rules.
 
 The findings will contribute to several literatures: experimental economics on institutional design, political economy on democratic decision-making, and organizational theory on self-governance. Practical applications include designing voting systems for environmental governance, corporate compliance mechanisms, and community resource management.
   

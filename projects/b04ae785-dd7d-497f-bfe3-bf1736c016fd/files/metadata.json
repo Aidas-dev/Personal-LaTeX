@@ -50,6 +50,16 @@
     "isBinary": true
   },
   {
+    "id": "08xK4Y8TchR7xkFxz4ruI",
+    "name": "progress_report.pdf",
+    "path": "/.texlyre_src/__output/progress_report.pdf",
+    "type": "file",
+    "lastModified": 1764868106305,
+    "size": 265758,
+    "mimeType": "application/pdf",
+    "isBinary": true
+  },
+  {
     "id": "0LfWSvBou3-E0yHYICUaz",
     "name": "sfbx1200.pfb",
     "path": "/.texlyre_cache/__tex/sfbx1200.pfb",
@@ -718,6 +728,13 @@
     "isBinary": true
   },
   {
+    "id": "HIVzIdUpARJmGKed2hI5b",
+    "name": "__work",
+    "path": "/.texlyre_src/__work",
+    "type": "directory",
+    "lastModified": 1764868106304
+  },
+  {
     "id": "HpWghX5AWWb1MkdMTdmRf",
     "name": "pgfplotsutil.code.tex",
     "path": "/.texlyre_cache/__tex/pgfplotsutil.code.tex",
@@ -738,14 +755,11 @@
     "isBinary": false
   },
   {
-    "id": "IrbxO9EU7xEnXer7TjgXj",
-    "name": "progress_report.log",
-    "path": "/.texlyre_src/__output/progress_report.log",
-    "type": "file",
-    "lastModified": 1764780031577,
-    "size": 5654,
-    "mimeType": "text/plain",
-    "isBinary": false
+    "id": "IUL9GRqBgOxV2EMXJr6d6",
+    "name": "__output",
+    "path": "/.texlyre_src/__output",
+    "type": "directory",
+    "lastModified": 1764868106303
   },
   {
     "id": "K-9D2qL2yLf7mJuPxIqxW",
@@ -1128,6 +1142,16 @@
     "isBinary": false
   },
   {
+    "id": "TK0DZPbpojXsQXpxWZVJ3",
+    "name": "tcbx1200.tfm",
+    "path": "/.texlyre_cache/__tex/tcbx1200.tfm",
+    "type": "file",
+    "lastModified": 1764868106531,
+    "size": 1536,
+    "mimeType": "application/x-tex-tfm",
+    "isBinary": true
+  },
+  {
     "id": "TM6FvAEomL4yaVwIuY8ui",
     "name": "cmex10.pfb",
     "path": "/.texlyre_cache/__tex/cmex10.pfb",
@@ -1391,6 +1415,16 @@
     "type": "file",
     "lastModified": 1764758640518,
     "size": 17334,
+    "mimeType": "text/plain",
+    "isBinary": false
+  },
+  {
+    "id": "YkFWjlTLaRVT1yzMx9TKY",
+    "name": "progress_report.log",
+    "path": "/.texlyre_src/__output/progress_report.log",
+    "type": "file",
+    "lastModified": 1764868106371,
+    "size": 5654,
     "mimeType": "text/plain",
     "isBinary": false
   },
@@ -1719,8 +1753,8 @@
     "name": "progress_report.tex",
     "path": "/research-project/progress_report.tex",
     "type": "file",
-    "lastModified": 1764780068004,
-    "size": 15158,
+    "lastModified": 1764868095737,
+    "size": 15989,
     "mimeType": "application/x-tex",
     "isBinary": false
   },
@@ -2252,29 +2286,12 @@
     "isBinary": true
   },
   {
-    "id": "qAWBVU-Td7GNMCF680gC3",
-    "name": "__work",
-    "path": "/.texlyre_src/__work",
-    "type": "directory",
-    "lastModified": 1764780031511
-  },
-  {
     "id": "qBSu-9BHv1b8saZXdFEkb",
     "name": "bham_crest.pdf",
     "path": "/research-project/figures/bham_crest.pdf",
     "type": "file",
     "lastModified": 1764758583900,
     "size": 175450,
-    "mimeType": "application/pdf",
-    "isBinary": true
-  },
-  {
-    "id": "qZm1gnYV2umW9nadsqWZ7",
-    "name": "progress_report.pdf",
-    "path": "/.texlyre_src/__output/progress_report.pdf",
-    "type": "file",
-    "lastModified": 1764780031511,
-    "size": 261388,
     "mimeType": "application/pdf",
     "isBinary": true
   },
@@ -2337,13 +2354,6 @@
     "size": 13214,
     "mimeType": "text/plain",
     "isBinary": false
-  },
-  {
-    "id": "rrLaXGrv3QJ9gdnmA6Hpz",
-    "name": "__output",
-    "path": "/.texlyre_src/__output",
-    "type": "directory",
-    "lastModified": 1764780031509
   },
   {
     "id": "s4swnEpTcH1OOZSUxPUTV",
@@ -2530,8 +2540,8 @@
     "name": "Literature.bib",
     "path": "/research-project/Literature.bib",
     "type": "file",
-    "lastModified": 1764769386932,
-    "size": 7651,
+    "lastModified": 1764854338222,
+    "size": 7994,
     "mimeType": "application/octet-stream",
     "isBinary": false
   },
